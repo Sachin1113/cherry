@@ -1,0 +1,28 @@
+.bg-black {
+  background: black;
+  color: rgb(255, 255, 255);
+}
+
+.invert-img {
+  filter: invert(1);
+}
+
+.bg-grey {
+  background: #121212;
+}
+
+.round-border {
+  border-radius: 7px;
+}
+
+.m1 {
+  margin: 5px;
+}
+
+.p1 {
+  padding: 10px;
+}
+
+.browsing {
+  padding: 13px;
+}
